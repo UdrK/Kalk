@@ -1,2 +1,2 @@
 # Kalk
-Kalk - Una calcolatrice probabilistica
+Kalk - A probabilistic calculator
