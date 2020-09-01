@@ -1,9 +1,10 @@
 # Kalk
 Kalk - A probabilistic calculator
 
-Kalk is a C++, QT application that allows its user to declare and use descrete random variables for simple calculations.
+Kalc is a QT application exercise in oop written in C++. The main design pattern used is mvc.
+It allows its user to declare and use descrete random variables for simple calculations. These variables support different operations based on the type they are.
 
-Supported distributions are:
+Supported random variables are:
 * Bernoulli distribution
 * Binomial distribution
 * Geometric distribution
@@ -12,4 +13,5 @@ Supported distributions are:
 * Poisson distribution
 * Hypergeometric distribution
 
-The project is an exercise in oop written in c++. The main design pattern used is mvc.
+Screenshot Kalc in action:
+![Kalc_Screen](https://user-images.githubusercontent.com/26527575/91853546-a193f580-ec62-11ea-9870-1758a59f44a8.png)
